@@ -1,0 +1,17 @@
+# Godot cache and editor state
+.godot/
+*.blend1
+
+# Exported builds and scratch output (rebuilt by tools/refresh.sh)
+build/
+.refresh_tmp/
+docs/stats/logs/
+
+# Large generated media: re-record with tools/refresh.sh
+docs/gameplay/
+docs/cutscenes/
+docs/screenshots/
+docs/trailer/
+*.mp4
+*.avi
+*.webm

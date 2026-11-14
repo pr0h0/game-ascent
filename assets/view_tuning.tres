@@ -1,0 +1,16 @@
+[gd_resource type="Resource" script_class="ViewTuning" format=3]
+
+[ext_resource type="Script" path="res://scripts/view_tuning.gd" id="1"]
+
+[resource]
+script = ExtResource("1")
+screen_left_offset = Vector3(0.285314, -0.033121, 0.16905)
+screen_left_rotation = Vector3(9.978909, -21.20738, -10.96332)
+screen_left_scale = 0.9
+screen_left_brightness = 1.25
+screen_right_offset = Vector3(-0.285314, -0.033121, 0.16905)
+screen_right_rotation = Vector3(9.978909, 21.20738, 10.96332)
+screen_right_scale = 0.9
+screen_right_brightness = 1.25
+rear_eye = Vector3(0, 1.4, 1.6)
+rear_fov_offset = 12.0

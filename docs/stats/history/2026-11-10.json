@@ -1,0 +1,2692 @@
+{
+ "date": "2026-11-10 16:25",
+ "runs": [
+  {
+   "level": 1,
+   "name": "First Shift",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 54.8,
+   "deaths": 0,
+   "damage_taken": 0.5,
+   "kills": 7,
+   "robots": 10,
+   "energy_used": 46.7,
+   "ammo_used": 7,
+   "pickups_total": 13,
+   "pickups_missed": 6,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 10749,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.7,
+   "escape_left": 56.9,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 2,
+   "name": "The Vein",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 177.4,
+   "deaths": 0,
+   "damage_taken": 147.0,
+   "kills": 45,
+   "robots": 35,
+   "energy_used": 194.5,
+   "ammo_used": 26,
+   "pickups_total": 27,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "shield",
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/5",
+   "rank": "A",
+   "score": 17570,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.2,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 3,
+   "name": "Black Shaft",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 112.6,
+   "deaths": 0,
+   "damage_taken": 28.2,
+   "kills": 27,
+   "robots": 28,
+   "energy_used": 136.6,
+   "ammo_used": 20,
+   "pickups_total": 23,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "ammo",
+    "ammo",
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "energy",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "3/3",
+   "rank": "S",
+   "score": 20345,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 56.8,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 4,
+   "name": "Smelter Row",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 271.8,
+   "deaths": 0,
+   "damage_taken": 159.8,
+   "kills": 67,
+   "robots": 46,
+   "energy_used": 317.5,
+   "ammo_used": 22,
+   "pickups_total": 33,
+   "pickups_missed": 18,
+   "missed_kinds": [
+    "ammo",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "power_invincible",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo_cluster",
+    "ammo_cluster",
+    "power_invincible",
+    "shield",
+    "ammo",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "S",
+   "score": 25846,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter"
+   ],
+   "missiles": [
+    "homing",
+    "cluster"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 54.8,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 5,
+   "name": "Hollow Reach",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 308.8,
+   "deaths": 1,
+   "damage_taken": 184.3,
+   "kills": 73,
+   "robots": 50,
+   "energy_used": 248.3,
+   "ammo_used": 28,
+   "pickups_total": 28,
+   "pickups_missed": 11,
+   "missed_kinds": [
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "shield",
+    "energy",
+    "ammo_swarm",
+    "power_cloak",
+    "energy",
+    "ammo_swarm",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "A",
+   "score": 29994,
+   "death_spots": [
+    {
+     "by": "hornet",
+     "goal": "pickup",
+     "pos": "(527.000000, 26.000000, -250.000000)",
+     "t": 70.4
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "cutter",
+    "laser",
+    "arc"
+   ],
+   "missiles": [
+    "cluster",
+    "homing",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 57.5,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 6,
+   "name": "Deep Cut",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 362.8,
+   "deaths": 0,
+   "damage_taken": 278.5,
+   "kills": 94,
+   "robots": 62,
+   "energy_used": 310.8,
+   "ammo_used": 40,
+   "pickups_total": 32,
+   "pickups_missed": 14,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "energy",
+    "energy",
+    "energy",
+    "shield",
+    "power_invincible",
+    "shield",
+    "energy",
+    "ammo_bunker",
+    "power_cloak",
+    "ammo",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "S",
+   "score": 31036,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "homing",
+    "bunker"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.2,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 7,
+   "name": "The Overseer's Pit",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 262.8,
+   "deaths": 0,
+   "damage_taken": 233.8,
+   "kills": 48,
+   "robots": 34,
+   "energy_used": 240.1,
+   "ammo_used": 18,
+   "pickups_total": 36,
+   "pickups_missed": 24,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo",
+    "energy",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_bunker",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "S",
+   "score": 24783,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc",
+    "rail"
+   ],
+   "missiles": [
+    "swarm",
+    "bunker",
+    "cluster",
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.2,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 8,
+   "name": "Glass Seam",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 396.5,
+   "deaths": 0,
+   "damage_taken": 387.0,
+   "kills": 94,
+   "robots": 65,
+   "energy_used": 558.8,
+   "ammo_used": 28,
+   "pickups_total": 36,
+   "pickups_missed": 11,
+   "missed_kinds": [
+    "ammo",
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "power_invincible",
+    "ammo_emp",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "2/2",
+   "rank": "S",
+   "score": 38632,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc",
+    "rail",
+    "prism"
+   ],
+   "missiles": [
+    "swarm",
+    "cluster",
+    "homing",
+    "bunker",
+    "emp"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 54.6,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 9,
+   "name": "Last Light",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 453.8,
+   "deaths": 1,
+   "damage_taken": 467.3,
+   "kills": 84,
+   "robots": 63,
+   "energy_used": 707.9,
+   "ammo_used": 34,
+   "pickups_total": 35,
+   "pickups_missed": 13,
+   "missed_kinds": [
+    "shield",
+    "ammo",
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_mine",
+    "power_invincible",
+    "ammo_mine",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "A",
+   "score": 38664,
+   "death_spots": [
+    {
+     "by": "longshot",
+     "goal": "pickup",
+     "pos": "(-48.000000, 54.000000, -504.000000)",
+     "t": 424.0
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "prism",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "emp",
+    "homing",
+    "swarm",
+    "mine",
+    "bunker"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 55.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 10,
+   "name": "Core Zero",
+   "difficulty": 0,
+   "won": true,
+   "seconds": 761.8,
+   "deaths": 1,
+   "damage_taken": 721.6,
+   "kills": 139,
+   "robots": 92,
+   "energy_used": 1339.5,
+   "ammo_used": 71,
+   "pickups_total": 59,
+   "pickups_missed": 25,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "shield",
+    "ammo_bunker",
+    "energy",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_swarm",
+    "ammo_bunker",
+    "power_invincible",
+    "energy",
+    "power_cloak",
+    "ammo_swarm",
+    "shield",
+    "ammo_bunker"
+   ],
+   "secrets": "3/3",
+   "astronauts": "3/3",
+   "rank": "A",
+   "score": 74659,
+   "death_spots": [
+    {
+     "by": "zero",
+     "goal": "pickup",
+     "pos": "(133.000000, 102.000000, -531.000000)",
+     "t": 718.4
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "rail",
+    "prism",
+    "cutter",
+    "arc",
+    "singularity"
+   ],
+   "missiles": [
+    "cluster",
+    "bunker",
+    "emp",
+    "mine",
+    "homing",
+    "swarm"
+   ],
+   "fps_avg": 140.8,
+   "escape_left": 56.2,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 1,
+   "name": "First Shift",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 56.9,
+   "deaths": 0,
+   "damage_taken": 10.5,
+   "kills": 7,
+   "robots": 10,
+   "energy_used": 51.4,
+   "ammo_used": 6,
+   "pickups_total": 13,
+   "pickups_missed": 6,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 12150,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.7,
+   "escape_left": 57.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 2,
+   "name": "The Vein",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 206.1,
+   "deaths": 1,
+   "damage_taken": 234.1,
+   "kills": 40,
+   "robots": 35,
+   "energy_used": 183.2,
+   "ammo_used": 21,
+   "pickups_total": 27,
+   "pickups_missed": 10,
+   "missed_kinds": [
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/5",
+   "rank": "B",
+   "score": 20550,
+   "death_spots": [
+    {
+     "by": "lancer",
+     "goal": "pickup",
+     "pos": "(136.000000, 13.000000, -154.000000)",
+     "t": 175.2
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 3,
+   "name": "Black Shaft",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 105.5,
+   "deaths": 0,
+   "damage_taken": 66.4,
+   "kills": 24,
+   "robots": 28,
+   "energy_used": 135.3,
+   "ammo_used": 20,
+   "pickups_total": 23,
+   "pickups_missed": 10,
+   "missed_kinds": [
+    "ammo",
+    "energy",
+    "ammo",
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "energy",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "3/3",
+   "rank": "S",
+   "score": 23450,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 57.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 4,
+   "name": "Smelter Row",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 298.0,
+   "deaths": 0,
+   "damage_taken": 245.5,
+   "kills": 70,
+   "robots": 46,
+   "energy_used": 410.0,
+   "ammo_used": 22,
+   "pickups_total": 33,
+   "pickups_missed": 18,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "energy",
+    "energy",
+    "energy",
+    "power_invincible",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo_cluster",
+    "ammo_cluster",
+    "power_invincible",
+    "shield",
+    "ammo",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "S",
+   "score": 32950,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter"
+   ],
+   "missiles": [
+    "homing",
+    "cluster"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.5,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 5,
+   "name": "Hollow Reach",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 295.4,
+   "deaths": 1,
+   "damage_taken": 315.1,
+   "kills": 75,
+   "robots": 50,
+   "energy_used": 314.4,
+   "ammo_used": 26,
+   "pickups_total": 28,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "shield",
+    "energy",
+    "ammo_swarm",
+    "power_cloak",
+    "energy",
+    "ammo_swarm",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "A",
+   "score": 37025,
+   "death_spots": [
+    {
+     "by": "spark",
+     "goal": "key",
+     "pos": "(1.000000, -43.000000, -136.000000)",
+     "t": 21.8
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc"
+   ],
+   "missiles": [
+    "homing",
+    "cluster",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 6,
+   "name": "Deep Cut",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 323.6,
+   "deaths": 0,
+   "damage_taken": 338.0,
+   "kills": 89,
+   "robots": 62,
+   "energy_used": 304.7,
+   "ammo_used": 40,
+   "pickups_total": 32,
+   "pickups_missed": 13,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "power_invincible",
+    "shield",
+    "energy",
+    "ammo_bunker",
+    "power_cloak",
+    "ammo",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "S",
+   "score": 38900,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "homing",
+    "bunker"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 58.3,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 7,
+   "name": "The Overseer's Pit",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 240.6,
+   "deaths": 1,
+   "damage_taken": 253.9,
+   "kills": 50,
+   "robots": 34,
+   "energy_used": 311.9,
+   "ammo_used": 21,
+   "pickups_total": 36,
+   "pickups_missed": 20,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "energy",
+    "ammo",
+    "ammo",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_bunker",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 30875,
+   "death_spots": [
+    {
+     "by": "overseer",
+     "goal": "pickup",
+     "pos": "(56.000000, 54.000000, -521.000000)",
+     "t": 223.4
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "rail",
+    "arc"
+   ],
+   "missiles": [
+    "homing",
+    "bunker",
+    "cluster",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 51.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 8,
+   "name": "Glass Seam",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 499.2,
+   "deaths": 4,
+   "damage_taken": 781.2,
+   "kills": 92,
+   "robots": 65,
+   "energy_used": 549.5,
+   "ammo_used": 35,
+   "pickups_total": 36,
+   "pickups_missed": 10,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_emp",
+    "power_invincible",
+    "ammo_emp",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "2/2",
+   "rank": "B",
+   "score": 47275,
+   "death_spots": [
+    {
+     "by": "revenant",
+     "goal": "key",
+     "pos": "(553.000000, 93.000000, -267.000000)",
+     "t": 107.6
+    },
+    {
+     "by": "spark",
+     "goal": "key",
+     "pos": "(-541.000000, -98.000000, -243.000000)",
+     "t": 199.1
+    },
+    {
+     "by": "spark",
+     "goal": "key",
+     "pos": "(-497.000000, 43.000000, -237.000000)",
+     "t": 346.0
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(124.000000, 51.000000, -409.000000)",
+     "t": 475.4
+    }
+   ],
+   "stuck": 1,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "prism",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "homing",
+    "bunker",
+    "emp"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 9,
+   "name": "Last Light",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 466.5,
+   "deaths": 1,
+   "damage_taken": 506.7,
+   "kills": 83,
+   "robots": 63,
+   "energy_used": 655.6,
+   "ammo_used": 30,
+   "pickups_total": 35,
+   "pickups_missed": 12,
+   "missed_kinds": [
+    "shield",
+    "ammo",
+    "ammo",
+    "shield",
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_mine",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "A",
+   "score": 45475,
+   "death_spots": [
+    {
+     "by": "phase",
+     "goal": "key",
+     "pos": "(-778.000000, 69.000000, -403.000000)",
+     "t": 118.7
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "prism",
+    "cutter"
+   ],
+   "missiles": [
+    "bunker",
+    "emp",
+    "homing",
+    "cluster",
+    "mine",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 52.9,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 10,
+   "name": "Core Zero",
+   "difficulty": 1,
+   "won": true,
+   "seconds": 816.8,
+   "deaths": 5,
+   "damage_taken": 1145.9,
+   "kills": 136,
+   "robots": 92,
+   "energy_used": 1229.9,
+   "ammo_used": 70,
+   "pickups_total": 59,
+   "pickups_missed": 25,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "energy",
+    "ammo_emp",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_swarm",
+    "ammo_bunker",
+    "power_invincible",
+    "energy",
+    "power_cloak",
+    "ammo_swarm",
+    "shield",
+    "ammo_bunker"
+   ],
+   "secrets": "3/3",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 95000,
+   "death_spots": [
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-60.000000, 70.000000, -215.000000)",
+     "t": 21.0
+    },
+    {
+     "by": "Node3D",
+     "goal": "pickup",
+     "pos": "(-382.000000, 62.000000, -285.000000)",
+     "t": 69.6
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(280.000000, 66.000000, -75.000000)",
+     "t": 257.8
+    },
+    {
+     "by": "Node3D",
+     "goal": "objective",
+     "pos": "(62.000000, -17.000000, -480.000000)",
+     "t": 756.4
+    },
+    {
+     "by": "revenant",
+     "goal": "pickup",
+     "pos": "(88.000000, -8.000000, -616.000000)",
+     "t": 792.5
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "prism",
+    "cutter",
+    "singularity"
+   ],
+   "missiles": [
+    "cluster",
+    "bunker",
+    "emp",
+    "mine",
+    "homing",
+    "swarm"
+   ],
+   "fps_avg": 139.4,
+   "escape_left": 55.8,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 1,
+   "name": "First Shift",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 57.2,
+   "deaths": 0,
+   "damage_taken": 13.8,
+   "kills": 6,
+   "robots": 10,
+   "energy_used": 45.0,
+   "ammo_used": 6,
+   "pickups_total": 13,
+   "pickups_missed": 6,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 14875,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.7,
+   "escape_left": 56.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 2,
+   "name": "The Vein",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 173.1,
+   "deaths": 0,
+   "damage_taken": 203.9,
+   "kills": 43,
+   "robots": 35,
+   "energy_used": 203.1,
+   "ammo_used": 24,
+   "pickups_total": 27,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/5",
+   "rank": "A",
+   "score": 28750,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.4,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 3,
+   "name": "Black Shaft",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 148.3,
+   "deaths": 1,
+   "damage_taken": 191.8,
+   "kills": 23,
+   "robots": 28,
+   "energy_used": 138.3,
+   "ammo_used": 27,
+   "pickups_total": 23,
+   "pickups_missed": 10,
+   "missed_kinds": [
+    "ammo",
+    "ammo",
+    "energy",
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "energy",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "2/3",
+   "rank": "A",
+   "score": 29475,
+   "death_spots": [
+    {
+     "by": "bulwark",
+     "goal": "pickup",
+     "pos": "(-109.000000, 56.000000, -98.000000)",
+     "t": 41.5
+    }
+   ],
+   "stuck": 1,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 56.6,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 4,
+   "name": "Smelter Row",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 339.2,
+   "deaths": 3,
+   "damage_taken": 573.9,
+   "kills": 67,
+   "robots": 46,
+   "energy_used": 408.4,
+   "ammo_used": 25,
+   "pickups_total": 33,
+   "pickups_missed": 16,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "energy",
+    "power_invincible",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo_cluster",
+    "ammo_cluster",
+    "power_invincible",
+    "shield",
+    "ammo",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "B",
+   "score": 45325,
+   "death_spots": [
+    {
+     "by": "bulwark",
+     "goal": "key",
+     "pos": "(227.000000, -7.000000, -78.000000)",
+     "t": 129.6
+    },
+    {
+     "by": "ripper",
+     "goal": "pickup",
+     "pos": "(271.000000, 12.000000, -101.000000)",
+     "t": 148.7
+    },
+    {
+     "by": "cinder",
+     "goal": "pickup",
+     "pos": "(55.000000, 53.000000, -404.000000)",
+     "t": 300.0
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter"
+   ],
+   "missiles": [
+    "homing",
+    "cluster"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 57.3,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 5,
+   "name": "Hollow Reach",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 391.8,
+   "deaths": 5,
+   "damage_taken": 857.6,
+   "kills": 70,
+   "robots": 50,
+   "energy_used": 299.0,
+   "ammo_used": 31,
+   "pickups_total": 28,
+   "pickups_missed": 7,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "ammo_swarm",
+    "power_cloak",
+    "energy",
+    "ammo_swarm",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 48659,
+   "death_spots": [
+    {
+     "by": "hornet",
+     "goal": "key",
+     "pos": "(2.000000, -12.000000, -119.000000)",
+     "t": 10.0
+    },
+    {
+     "by": "lancer",
+     "goal": "key",
+     "pos": "(77.000000, -16.000000, -160.000000)",
+     "t": 24.9
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(530.000000, 7.000000, -243.000000)",
+     "t": 104.6
+    },
+    {
+     "by": "spark",
+     "goal": "pickup",
+     "pos": "(772.000000, -45.000000, -156.000000)",
+     "t": 153.8
+    },
+    {
+     "by": "spark",
+     "goal": "pickup",
+     "pos": "(-302.000000, -43.000000, -143.000000)",
+     "t": 253.5
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "cutter",
+    "laser",
+    "arc"
+   ],
+   "missiles": [
+    "homing",
+    "cluster",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 57.4,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 6,
+   "name": "Deep Cut",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 384.8,
+   "deaths": 1,
+   "damage_taken": 436.3,
+   "kills": 92,
+   "robots": 62,
+   "energy_used": 366.8,
+   "ammo_used": 46,
+   "pickups_total": 32,
+   "pickups_missed": 11,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "shield",
+    "power_invincible",
+    "shield",
+    "energy",
+    "ammo_bunker",
+    "power_cloak",
+    "ammo",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 55332,
+   "death_spots": [
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(836.000000, 35.000000, -22.000000)",
+     "t": 212.9
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "homing",
+    "bunker"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 54.5,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 7,
+   "name": "The Overseer's Pit",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 261.0,
+   "deaths": 3,
+   "damage_taken": 537.5,
+   "kills": 48,
+   "robots": 34,
+   "energy_used": 308.9,
+   "ammo_used": 26,
+   "pickups_total": 36,
+   "pickups_missed": 20,
+   "missed_kinds": [
+    "ammo",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_bunker",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "B",
+   "score": 43022,
+   "death_spots": [
+    {
+     "by": "shade",
+     "goal": "secret",
+     "pos": "(726.000000, -86.000000, -220.000000)",
+     "t": 166.6
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(59.000000, 23.000000, -475.000000)",
+     "t": 221.9
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(136.000000, -12.000000, -404.000000)",
+     "t": 240.0
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter",
+    "rail"
+   ],
+   "missiles": [
+    "bunker",
+    "homing",
+    "swarm",
+    "cluster"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 8,
+   "name": "Glass Seam",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 495.9,
+   "deaths": 6,
+   "damage_taken": 1029.9,
+   "kills": 92,
+   "robots": 65,
+   "energy_used": 624.1,
+   "ammo_used": 33,
+   "pickups_total": 36,
+   "pickups_missed": 11,
+   "missed_kinds": [
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_emp",
+    "power_invincible",
+    "ammo_emp",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "2/2",
+   "rank": "B",
+   "score": 66709,
+   "death_spots": [
+    {
+     "by": "glint",
+     "goal": "key",
+     "pos": "(217.000000, 64.000000, -276.000000)",
+     "t": 47.5
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(-780.000000, -78.000000, -197.000000)",
+     "t": 219.9
+    },
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-219.000000, 92.000000, -284.000000)",
+     "t": 322.7
+    },
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-217.000000, 101.000000, -257.000000)",
+     "t": 340.1
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(27.000000, 64.000000, -392.000000)",
+     "t": 450.3
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(153.000000, 40.000000, -424.000000)",
+     "t": 472.5
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc",
+    "rail",
+    "prism"
+   ],
+   "missiles": [
+    "cluster",
+    "homing",
+    "bunker",
+    "emp",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 54.6,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 9,
+   "name": "Last Light",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 563.9,
+   "deaths": 4,
+   "damage_taken": 772.8,
+   "kills": 84,
+   "robots": 63,
+   "energy_used": 782.9,
+   "ammo_used": 44,
+   "pickups_total": 35,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_mine",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 63582,
+   "death_spots": [
+    {
+     "by": "wraith",
+     "goal": "pickup",
+     "pos": "(-1001.000000, 106.000000, -401.000000)",
+     "t": 135.4
+    },
+    {
+     "by": "revenant",
+     "goal": "key",
+     "pos": "(811.000000, 48.000000, 16.000000)",
+     "t": 364.1
+    },
+    {
+     "by": "revenant",
+     "goal": "pickup",
+     "pos": "(873.000000, 40.000000, 4.000000)",
+     "t": 403.8
+    },
+    {
+     "by": "hive",
+     "goal": "escape",
+     "pos": "(-9.000000, 50.000000, -469.000000)",
+     "t": 545.7
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "prism",
+    "cutter"
+   ],
+   "missiles": [
+    "bunker",
+    "emp",
+    "cluster",
+    "swarm",
+    "homing",
+    "mine"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 45.9,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 10,
+   "name": "Core Zero",
+   "difficulty": 2,
+   "won": true,
+   "seconds": 996.3,
+   "deaths": 9,
+   "damage_taken": 1741.3,
+   "kills": 135,
+   "robots": 92,
+   "energy_used": 1482.5,
+   "ammo_used": 78,
+   "pickups_total": 59,
+   "pickups_missed": 24,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "energy",
+    "ammo_bunker",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_swarm",
+    "ammo_bunker",
+    "power_invincible",
+    "energy",
+    "power_cloak",
+    "ammo_swarm",
+    "shield",
+    "ammo_bunker"
+   ],
+   "secrets": "3/3",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 136205,
+   "death_spots": [
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-52.000000, 38.000000, -165.000000)",
+     "t": 15.9
+    },
+    {
+     "by": "revenant",
+     "goal": "pickup",
+     "pos": "(-1126.000000, 69.000000, -373.000000)",
+     "t": 130.6
+    },
+    {
+     "by": "drillback",
+     "goal": "pickup",
+     "pos": "(-1106.000000, 69.000000, -388.000000)",
+     "t": 195.7
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(291.000000, 69.000000, -102.000000)",
+     "t": 332.3
+    },
+    {
+     "by": "glint",
+     "goal": "pickup",
+     "pos": "(1078.000000, 95.000000, -224.000000)",
+     "t": 421.1
+    },
+    {
+     "by": "sower",
+     "goal": "key",
+     "pos": "(-309.000000, -68.000000, -136.000000)",
+     "t": 547.7
+    },
+    {
+     "by": "phase",
+     "goal": "key",
+     "pos": "(-728.000000, -9.000000, -223.000000)",
+     "t": 625.7
+    },
+    {
+     "by": "zero",
+     "goal": "pickup",
+     "pos": "(133.000000, 123.000000, -505.000000)",
+     "t": 930.5
+    },
+    {
+     "by": "wraith",
+     "goal": "pickup",
+     "pos": "(47.000000, 65.000000, -534.000000)",
+     "t": 962.8
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter",
+    "rail",
+    "prism",
+    "singularity"
+   ],
+   "missiles": [
+    "emp",
+    "mine",
+    "swarm",
+    "bunker",
+    "homing",
+    "cluster"
+   ],
+   "fps_avg": 139.5,
+   "escape_left": 53.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 1,
+   "name": "First Shift",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 58.3,
+   "deaths": 0,
+   "damage_taken": 33.4,
+   "kills": 6,
+   "robots": 10,
+   "energy_used": 49.5,
+   "ammo_used": 6,
+   "pickups_total": 13,
+   "pickups_missed": 6,
+   "missed_kinds": [
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "A",
+   "score": 20725,
+   "death_spots": [],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.7,
+   "escape_left": 56.8,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 2,
+   "name": "The Vein",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 209.6,
+   "deaths": 3,
+   "damage_taken": 486.5,
+   "kills": 42,
+   "robots": 35,
+   "energy_used": 233.7,
+   "ammo_used": 25,
+   "pickups_total": 27,
+   "pickups_missed": 10,
+   "missed_kinds": [
+    "energy",
+    "shield",
+    "shield",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "shield",
+    "shield",
+    "ammo"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/5",
+   "rank": "B",
+   "score": 42975,
+   "death_spots": [
+    {
+     "by": "lancer",
+     "goal": "pickup",
+     "pos": "(0.000000, 34.000000, -95.000000)",
+     "t": 35.8
+    },
+    {
+     "by": "bulwark",
+     "goal": "pickup",
+     "pos": "(119.000000, 17.000000, -238.000000)",
+     "t": 123.4
+    },
+    {
+     "by": "lancer",
+     "goal": "pickup",
+     "pos": "(238.000000, 8.000000, -103.000000)",
+     "t": 185.2
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.3,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 3,
+   "name": "Black Shaft",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 147.1,
+   "deaths": 2,
+   "damage_taken": 508.7,
+   "kills": 24,
+   "robots": 28,
+   "energy_used": 192.2,
+   "ammo_used": 26,
+   "pickups_total": 23,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "ammo",
+    "energy",
+    "ammo",
+    "upgrade_laser_2",
+    "energy",
+    "shield",
+    "energy",
+    "ammo",
+    "energy"
+   ],
+   "secrets": "1/1",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 45500,
+   "death_spots": [
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(40.000000, 10.000000, -104.000000)",
+     "t": 17.0
+    },
+    {
+     "by": "homing",
+     "goal": "objective",
+     "pos": "(103.000000, -46.000000, -298.000000)",
+     "t": 126.7
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser"
+   ],
+   "missiles": [
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.8,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 4,
+   "name": "Smelter Row",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 383.8,
+   "deaths": 6,
+   "damage_taken": 993.4,
+   "kills": 66,
+   "robots": 46,
+   "energy_used": 494.9,
+   "ammo_used": 28,
+   "pickups_total": 33,
+   "pickups_missed": 17,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "energy",
+    "energy",
+    "power_invincible",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo_cluster",
+    "ammo_cluster",
+    "power_invincible",
+    "shield",
+    "ammo",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "B",
+   "score": 71125,
+   "death_spots": [
+    {
+     "by": "hornet",
+     "goal": "pickup",
+     "pos": "(-211.000000, 67.000000, -223.000000)",
+     "t": 33.3
+    },
+    {
+     "by": "cinder",
+     "goal": "key",
+     "pos": "(198.000000, -23.000000, -95.000000)",
+     "t": 147.1
+    },
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(209.000000, -51.000000, -115.000000)",
+     "t": 166.8
+    },
+    {
+     "by": "StaticBody3D",
+     "goal": "pickup",
+     "pos": "(54.000000, -33.000000, -317.000000)",
+     "t": 280.7
+    },
+    {
+     "by": "crucible",
+     "goal": "pickup",
+     "pos": "(32.000000, 52.000000, -371.000000)",
+     "t": 316.2
+    },
+    {
+     "by": "cinder",
+     "goal": "pickup",
+     "pos": "(135.000000, 40.000000, -363.000000)",
+     "t": 360.1
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter"
+   ],
+   "missiles": [
+    "homing",
+    "cluster"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.7,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 5,
+   "name": "Hollow Reach",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 375.8,
+   "deaths": 5,
+   "damage_taken": 900.0,
+   "kills": 66,
+   "robots": 50,
+   "energy_used": 394.2,
+   "ammo_used": 26,
+   "pickups_total": 28,
+   "pickups_missed": 9,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "shield",
+    "energy",
+    "ammo_swarm",
+    "power_cloak",
+    "energy",
+    "ammo_swarm",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 70834,
+   "death_spots": [
+    {
+     "by": "spark",
+     "goal": "pickup",
+     "pos": "(35.000000, 2.000000, -166.000000)",
+     "t": 10.4
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(523.000000, 35.000000, -263.000000)",
+     "t": 71.3
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(-310.000000, -9.000000, -117.000000)",
+     "t": 185.2
+    },
+    {
+     "by": "hornet",
+     "goal": "pickup",
+     "pos": "(-766.000000, 49.000000, -148.000000)",
+     "t": 247.0
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(-93.000000, 34.000000, -413.000000)",
+     "t": 356.2
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "homing",
+    "swarm"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 49.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 6,
+   "name": "Deep Cut",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 431.9,
+   "deaths": 3,
+   "damage_taken": 698.1,
+   "kills": 81,
+   "robots": 62,
+   "energy_used": 328.0,
+   "ammo_used": 49,
+   "pickups_total": 32,
+   "pickups_missed": 11,
+   "missed_kinds": [
+    "energy",
+    "energy",
+    "energy",
+    "power_invincible",
+    "shield",
+    "energy",
+    "ammo_bunker",
+    "power_cloak",
+    "ammo",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "0/0",
+   "rank": "B",
+   "score": 77182,
+   "death_spots": [
+    {
+     "by": "ripper",
+     "goal": "pickup",
+     "pos": "(-475.000000, -69.000000, -162.000000)",
+     "t": 53.7
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(-729.000000, -131.000000, -131.000000)",
+     "t": 104.4
+    },
+    {
+     "by": "lancer",
+     "goal": "pickup",
+     "pos": "(1075.000000, -19.000000, 40.000000)",
+     "t": 297.3
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "homing",
+    "bunker"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.5,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 7,
+   "name": "The Overseer's Pit",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 427.2,
+   "deaths": 9,
+   "damage_taken": 1239.4,
+   "kills": 52,
+   "robots": 34,
+   "energy_used": 527.5,
+   "ammo_used": 29,
+   "pickups_total": 36,
+   "pickups_missed": 19,
+   "missed_kinds": [
+    "ammo",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_bunker",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "1/1",
+   "astronauts": "0/0",
+   "rank": "B",
+   "score": 68433,
+   "death_spots": [
+    {
+     "by": "shade",
+     "goal": "key",
+     "pos": "(-620.000000, 110.000000, -170.000000)",
+     "t": 56.9
+    },
+    {
+     "by": "shade",
+     "goal": "key",
+     "pos": "(-735.000000, 132.000000, -134.000000)",
+     "t": 99.1
+    },
+    {
+     "by": "hornet",
+     "goal": "key",
+     "pos": "(-717.000000, 107.000000, -173.000000)",
+     "t": 141.8
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(106.000000, 10.000000, -372.000000)",
+     "t": 327.6
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(109.000000, 38.000000, -461.000000)",
+     "t": 344.9
+    },
+    {
+     "by": "overseer",
+     "goal": "pickup",
+     "pos": "(73.000000, 11.000000, -341.000000)",
+     "t": 357.2
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(179.000000, 8.000000, -297.000000)",
+     "t": 371.4
+    },
+    {
+     "by": "hornet",
+     "goal": "objective",
+     "pos": "(63.000000, 11.000000, -294.000000)",
+     "t": 382.0
+    },
+    {
+     "by": "overseer",
+     "goal": "objective",
+     "pos": "(160.000000, -43.000000, -334.000000)",
+     "t": 405.5
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc",
+    "rail"
+   ],
+   "missiles": [
+    "bunker",
+    "cluster",
+    "swarm",
+    "homing"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 55.6,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 8,
+   "name": "Glass Seam",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 565.9,
+   "deaths": 8,
+   "damage_taken": 1415.4,
+   "kills": 96,
+   "robots": 65,
+   "energy_used": 783.6,
+   "ammo_used": 38,
+   "pickups_total": 36,
+   "pickups_missed": 8,
+   "missed_kinds": [
+    "ammo",
+    "shield",
+    "energy",
+    "ammo_emp",
+    "power_invincible",
+    "ammo_emp",
+    "shield",
+    "energy"
+   ],
+   "secrets": "2/2",
+   "astronauts": "2/2",
+   "rank": "B",
+   "score": 107496,
+   "death_spots": [
+    {
+     "by": "glint",
+     "goal": "pickup",
+     "pos": "(-36.000000, -1.000000, -233.000000)",
+     "t": 14.3
+    },
+    {
+     "by": "glint",
+     "goal": "pickup",
+     "pos": "(244.000000, 53.000000, -283.000000)",
+     "t": 65.7
+    },
+    {
+     "by": "revenant",
+     "goal": "key",
+     "pos": "(514.000000, 107.000000, -208.000000)",
+     "t": 105.5
+    },
+    {
+     "by": "shade",
+     "goal": "key",
+     "pos": "(-781.000000, -62.000000, -202.000000)",
+     "t": 264.0
+    },
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-217.000000, 100.000000, -226.000000)",
+     "t": 351.4
+    },
+    {
+     "by": "spark",
+     "goal": "pickup",
+     "pos": "(-823.000000, 2.000000, -253.000000)",
+     "t": 430.6
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(140.000000, 40.000000, -368.000000)",
+     "t": 526.2
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(153.000000, 59.000000, -376.000000)",
+     "t": 543.7
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "arc",
+    "rail",
+    "cutter",
+    "prism"
+   ],
+   "missiles": [
+    "homing",
+    "swarm",
+    "bunker",
+    "cluster",
+    "emp"
+   ],
+   "fps_avg": 144.9,
+   "escape_left": 56.0,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 9,
+   "name": "Last Light",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 532.4,
+   "deaths": 5,
+   "damage_taken": 874.3,
+   "kills": 85,
+   "robots": 63,
+   "energy_used": 654.3,
+   "ammo_used": 45,
+   "pickups_total": 35,
+   "pickups_missed": 12,
+   "missed_kinds": [
+    "energy",
+    "ammo",
+    "ammo",
+    "shield",
+    "shield",
+    "ammo",
+    "shield",
+    "shield",
+    "energy",
+    "ammo_mine",
+    "power_cloak",
+    "shield"
+   ],
+   "secrets": "2/2",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 103982,
+   "death_spots": [
+    {
+     "by": "hive",
+     "goal": "pickup",
+     "pos": "(-43.000000, -43.000000, -215.000000)",
+     "t": 22.5
+    },
+    {
+     "by": "seeker",
+     "goal": "key",
+     "pos": "(-186.000000, 31.000000, -230.000000)",
+     "t": 55.6
+    },
+    {
+     "by": "tripwire",
+     "goal": "key",
+     "pos": "(-698.000000, 50.000000, -350.000000)",
+     "t": 129.0
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(1079.000000, 35.000000, 114.000000)",
+     "t": 369.2
+    },
+    {
+     "by": "phase",
+     "goal": "escape",
+     "pos": "(-119.000000, 109.000000, -489.000000)",
+     "t": 513.1
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "rail",
+    "prism",
+    "arc",
+    "cutter"
+   ],
+   "missiles": [
+    "cluster",
+    "swarm",
+    "emp",
+    "homing",
+    "mine",
+    "bunker"
+   ],
+   "fps_avg": 144.8,
+   "escape_left": 48.6,
+   "date": "2026-11-10 16:25"
+  },
+  {
+   "level": 10,
+   "name": "Core Zero",
+   "difficulty": 3,
+   "won": true,
+   "seconds": 1029.1,
+   "deaths": 18,
+   "damage_taken": 2853.5,
+   "kills": 139,
+   "robots": 92,
+   "energy_used": 1659.5,
+   "ammo_used": 116,
+   "pickups_total": 59,
+   "pickups_missed": 26,
+   "missed_kinds": [
+    "shield",
+    "ammo_bunker",
+    "energy",
+    "energy",
+    "energy",
+    "energy",
+    "power_invincible",
+    "power_invincible",
+    "power_cloak",
+    "shield",
+    "shield",
+    "shield",
+    "shield",
+    "energy",
+    "energy",
+    "energy",
+    "ammo",
+    "ammo",
+    "ammo_swarm",
+    "ammo_bunker",
+    "power_invincible",
+    "energy",
+    "power_cloak",
+    "ammo_swarm",
+    "shield",
+    "ammo_bunker"
+   ],
+   "secrets": "3/3",
+   "astronauts": "3/3",
+   "rank": "B",
+   "score": 223180,
+   "death_spots": [
+    {
+     "by": "longshot",
+     "goal": "pickup",
+     "pos": "(-9.000000, 1.000000, -141.000000)",
+     "t": 9.1
+    },
+    {
+     "by": "homing",
+     "goal": "key",
+     "pos": "(-70.000000, -53.000000, -201.000000)",
+     "t": 22.7
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(21.000000, -23.000000, -174.000000)",
+     "t": 45.2
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(50.000000, -1.000000, -157.000000)",
+     "t": 55.8
+    },
+    {
+     "by": "homing",
+     "goal": "pickup",
+     "pos": "(304.000000, 57.000000, -118.000000)",
+     "t": 242.3
+    },
+    {
+     "by": "StaticBody3D",
+     "goal": "key",
+     "pos": "(1056.000000, 101.000000, -192.000000)",
+     "t": 334.1
+    },
+    {
+     "by": "prox",
+     "goal": "pickup",
+     "pos": "(-321.000000, -87.000000, -119.000000)",
+     "t": 469.0
+    },
+    {
+     "by": "shade",
+     "goal": "pickup",
+     "pos": "(-643.000000, -61.000000, -181.000000)",
+     "t": 519.2
+    },
+    {
+     "by": "longshot",
+     "goal": "pickup",
+     "pos": "(119.000000, 49.000000, -530.000000)",
+     "t": 849.0
+    },
+    {
+     "by": "revenant",
+     "goal": "pickup",
+     "pos": "(123.000000, 52.000000, -461.000000)",
+     "t": 864.8
+    },
+    {
+     "by": "zero",
+     "goal": "objective",
+     "pos": "(89.000000, 49.000000, -451.000000)",
+     "t": 877.4
+    },
+    {
+     "by": "zero",
+     "goal": "objective",
+     "pos": "(82.000000, 49.000000, -444.000000)",
+     "t": 894.4
+    },
+    {
+     "by": "phase",
+     "goal": "pickup",
+     "pos": "(106.000000, 25.000000, -501.000000)",
+     "t": 909.6
+    },
+    {
+     "by": "longshot",
+     "goal": "pickup",
+     "pos": "(145.000000, 49.000000, -460.000000)",
+     "t": 926.3
+    },
+    {
+     "by": "tick",
+     "goal": "pickup",
+     "pos": "(-12.000000, 53.000000, -539.000000)",
+     "t": 953.2
+    },
+    {
+     "by": "longshot",
+     "goal": "pickup",
+     "pos": "(125.000000, 50.000000, -464.000000)",
+     "t": 976.7
+    },
+    {
+     "by": "revenant",
+     "goal": "objective",
+     "pos": "(93.000000, 49.000000, -481.000000)",
+     "t": 991.3
+    },
+    {
+     "by": "zero",
+     "goal": "pickup",
+     "pos": "(95.000000, 50.000000, -477.000000)",
+     "t": 1005.9
+    }
+   ],
+   "stuck": 0,
+   "teleports": 0,
+   "weapons": [
+    "laser",
+    "cutter",
+    "arc",
+    "rail",
+    "prism",
+    "singularity"
+   ],
+   "missiles": [
+    "cluster",
+    "mine",
+    "bunker",
+    "homing",
+    "emp",
+    "swarm"
+   ],
+   "fps_avg": 141.2,
+   "escape_left": 55.5,
+   "date": "2026-11-10 16:25"
+  }
+ ]
+}
